@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-________ myString(_____________________){
+string myString(char p,int N){
 	_______ = new ____________;    
 	for(int i = 0; i < N;i++) ____________ = 'A'+i;
 	__________ = 0;
